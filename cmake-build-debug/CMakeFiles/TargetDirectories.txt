@@ -1,0 +1,3 @@
+C:/Users/DANAX/CLionProjects/MultiThread/cmake-build-debug/CMakeFiles/MultiThread.dir
+C:/Users/DANAX/CLionProjects/MultiThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DANAX/CLionProjects/MultiThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
